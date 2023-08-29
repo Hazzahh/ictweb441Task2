@@ -50,22 +50,3 @@ newsBtn.addEventListener("click",function() {
             })
         })
     });
-
-/*
-const newsBtn = document.getElementById("myBtn");
-//const rssUrl = "https://www.toptal.com/developers/feed2json/convert?url=http://fetchrss.com/rss/64ec1893af6bde2a6e662e8264ec16ba1682e446e346a6a2.xml"
-const rssUrl = "https://rss.app/feeds/twN78H4H15lbUJgJ.xml"
-newsBtn.addEventListener("click",function() {
-    fetch(rssUrl,{
-        //method: 'GET',
-        //mode: 'no-cors',
-        //headers: headers,
-    })
-    .then(response => {response.text();
-        //alert(response);
-        console.log(typeof response);
-        console.log(response.status); })
-        .then(data => {
-            console.log(typeof data);
-        })})
-      */

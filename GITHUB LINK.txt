@@ -1,0 +1,6 @@
+GITHUB LINK
+
+https://github.com/Hazzahh/ictweb441Task2.git
+
+SSH
+git@github.com:Hazzahh/ictweb441Task2.git
